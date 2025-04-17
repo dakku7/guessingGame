@@ -1,6 +1,5 @@
 https://roadmap.sh/projects/number-guessing-game
 
-```markdown
 # Guessing Game
 
 Игра "Угадай число" на C++. 
